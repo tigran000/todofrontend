@@ -1,0 +1,22 @@
+h1 {
+  color: azure;
+  padding: 0;
+  margin: 10px;
+}
+hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 96%;
+  background-color: black;
+  height: 1px;
+}
+
+button {
+  color: whitesmoke;
+  background-color: #E75480;
+  width: 7vw;
+  margin: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
